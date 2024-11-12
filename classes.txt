@@ -1,0 +1,7 @@
+araucaria_sp
+cecropia_sp
+eucalyptus_sp
+leafless
+palm_tree
+pinus_sp
+tree_crown

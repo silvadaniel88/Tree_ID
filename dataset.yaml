@@ -1,0 +1,15 @@
+train: "C:\\images\\train"
+val: "C:\\images\\val"
+
+nc: 7
+
+# Classes
+names: ['araucaria_sp', 'cecropia_sp','eucalyptus_sp','leafless','palm_tree','pinus_sp','tree_crown']
+
+
+
+
+
+
+
+
